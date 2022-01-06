@@ -1,2 +1,6 @@
-# dio-avanade-desafio
-Desafio de projeto sobre GitHub Decola Tech
+#  Repositório  Desafio DIO
+###Desafio de projeto sobre Git/GitHub Decola Tech 2ª edição
+
+##LINKS UTEIS 
+
+[Download GIT] (https://git-scm.com/downloads)
